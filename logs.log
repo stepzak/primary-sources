@@ -1,0 +1,18 @@
+ERROR:root:Could not extract text for url: https://search.catalog.loc.gov/api/opac-inventory/instances/9acb1e70-9ea7-5ec1-9e9e-4d1e8b6d865e?withHoldingAndItemData=true
+NoneType: None
+DEBUG:asyncio:Using proactor: IocpProactor
+ERROR:root:Could not extract text for url: https://search.catalog.loc.gov/api/opac-inventory/instances/9acb1e70-9ea7-5ec1-9e9e-4d1e8b6d865e?withHoldingAndItemData=true, 401
+NoneType: None
+DEBUG:asyncio:Using proactor: IocpProactor
+ERROR:root:Could not extract text for url: https://search.catalog.loc.gov/api/opac-inventory/instances/9acb1e70-9ea7-5ec1-9e9e-4d1e8b6d865e?withHoldingAndItemData=true, 401
+NoneType: None
+ERROR:root:Could not extract text for url: https://search.catalog.loc.gov/api/opac-inventory/instances/9acb1e70-9ea7-5ec1-9e9e-4d1e8b6d865e?withHoldingAndItemData=true, {"errors":[{"type":"UnauthorizedException","code":"authorization_error","message":"Unauthorized"}],"total_records":1}
+NoneType: None
+ERROR:root:Could not extract text for url: https://search.catalog.loc.gov/api/opac-inventory/instances/9acb1e70-9ea7-5ec1-9e9e-4d1e8b6d865e?withHoldingAndItemData=true, {"errors":[{"type":"UnauthorizedException","code":"authorization_error","message":"Unauthorized"}],"total_records":1}
+NoneType: None
+ERROR:root:Could not extract text for url: https://search.catalog.loc.gov/api/opac-inventory/instances/9acb1e70-9ea7-5ec1-9e9e-4d1e8b6d865e?withHoldingAndItemData=true, {"errors":[{"type":"UnauthorizedException","code":"authorization_error","message":"Unauthorized"}],"total_records":1}
+NoneType: None
+INFO:root:flag='FLAG{19770905-19900401-1F9E0-20090103-0131103628}'
+INFO:root:SHA256: d311f26ea1a995af669a62758ad5e0ce2583331059fbfc5c04cc84b2d41f4aed
+INFO:root:flag='FLAG{19770905-19900401-1F9E0-20090103-0131103628}'
+INFO:root:SHA256: d311f26ea1a995af669a62758ad5e0ce2583331059fbfc5c04cc84b2d41f4aed
